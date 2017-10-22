@@ -1,2 +1,2 @@
-deuxieme fichier ph
+deuxieme fichier php
 
